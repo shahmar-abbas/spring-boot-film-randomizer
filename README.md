@@ -11,7 +11,6 @@ A simple application that allows you to add movies and randomly pick one from yo
 - Java
 - Spring Boot
 - Spring Web
-- (If used) H2 Database
 
 ## How to Run
 1. Clone the repository:  
